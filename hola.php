@@ -1,5 +1,6 @@
 <?php
 echo "¡Hola mundo!";
 echo "¡Soy Nelson Angel Zamora!";
-echo "¡Curso: Proceso de Software 3-1!";
+echo "¡Materia: Proceso de Software!";
+echo "¡Curso: SOF 3-1!";
 ?>
